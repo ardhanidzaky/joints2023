@@ -7,7 +7,9 @@
 1. [General Pipeline](https://github.com/ardhanidzaky/joints2023/blob/main/general-pipeline.ipynb)
 2. [General Pipeline + Confident Learning](https://github.com/ardhanidzaky/joints2023/blob/main/general-pipeline-label-issue.ipynb)
 3. [General Pipeline + Confident Learning + Imputer](https://github.com/ardhanidzaky/joints2023/blob/main/general-pipeline-label-issue-imputing-missing.ipynb)
-4. [Complete Notebook](https://github.com/ardhanidzaky/joints2023/blob/main/full-pipeline.ipynb)
+4. [Full Pipeline (Simple Classification) with Data Leakage](https://github.com/ardhanidzaky/joints2023/blob/main/full-pipeline.ipynb)
+5. [Full Pipeline (Ordinal Classification) with Data Leakage]()
+6. [Full Pipeline (Ordinal Classification) without Data Leakage](https://github.com/ardhanidzaky/joints2023/blob/main/full-pipeline-without-leakage.ipynb)
 
 ## References
 1. C. G. Northcutt, L. Jiang, and I. L. Chuang, “Confident Learning: Estimating Uncertainty in Dataset Labels,” Journal of Artificial Intelligence Research, vol. 70, pp. 1373–1411, Apr. 2021, doi: 10.1613/jair.1.12125.
